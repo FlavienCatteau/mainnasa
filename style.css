@@ -1,0 +1,38 @@
+main{
+    background-color: black;
+}
+
+.photolaboiss{
+    height: 663.5px;
+    width: 660px;
+}
+.gifiss{
+    height: 329.75px;
+    width: 300px;
+}
+.infonasa{
+    height: 329.75px;
+    width: 300px;
+    color: white;
+    text-decoration: none !important;
+}
+.cardmoonparty{
+    height: 100%;
+    position: relative;
+}
+.moonimg{
+    float: left;
+    margin: inherit;
+}
+.ftextmoon{
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    background-color: white;
+    padding: 1em;
+    position: relative;
+}
+.textecardmoon{
+    float: right;
+    background-color: white;
+}
